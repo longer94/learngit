@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks changes
 gggggggggggggggggggg
 sdfsfdf
+we are tuzhenlong 
